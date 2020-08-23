@@ -1,5 +1,6 @@
 # TV-Halftime-Shows-and-the-Big-Game
-A guided project (https://learn.datacamp.com/projects/684) from DataCamp platform involving loading, cleaning, and exploring Super Bowl data in the age of soaring ad costs and flashy halftime shows.
+
+This project involves loading, cleaning, and exploring Super Bowl data in the age of soaring ad costs and flashy halftime shows.
 
 This project gives an opportunity to apply the skills from Intermediate Python for Data Science Course on DataCamp (https://learn.datacamp.com/courses/intermediate-python-for-data-science).
 
